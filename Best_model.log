@@ -1,0 +1,30 @@
+UPDATE INFORMATION
+DATE:	2018-10-07
+TIME:	09:19:30
+MODEL:	2018-10-07_09:19:30.pdb
+SCORE:	-41141.02734375(DOPE)
+TEMPLATE:	('5CXV', '5TE3', '2Y01', '2RH1', '4N6H')
+UPDATE:	1
+SUM:	100
+#######################################################
+
+UPDATE INFORMATION
+DATE:	2018-10-07
+TIME:	13:38:53
+MODEL:	2018-10-07_13:38:53.pdb
+SCORE:	-41440.66015625(DOPE)
+TEMPLATE:	('5XR8', '4EA3', '4BEY', '2G87', '5O9H')
+UPDATE:	10
+SUM:	1000
+#######################################################
+
+UPDATE INFORMATION
+DATE:	2018-10-08
+TIME:	10:07:27
+MODEL:	2018-10-08_10:07:27.pdb
+SCORE:	-41842.8125(DOPE)
+TEMPLATE:	('3OAX', '5C1M', '6GDG', '1GZM', '6CM4')
+UPDATE:	52
+SUM:	5200
+#######################################################
+

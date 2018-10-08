@@ -1,0 +1,20 @@
+#!/bin/bash
+#BSUB -q q2697v4cpu
+#BSUB -o /dev/null
+#BSUB -e ./error.txt
+#BSUB -n 1
+#BSUB -J "Randmodel"
+
+#Some variables
+script1="random_seq_pir.py"
+script2="mymodeing.py"
+
+COUNT=1
+while true; do
+	#generate a pir format file
+	python ${script1}
+	#build model
+	python ${script2} ${COUNT}
+	COUNT=`expr $COUNT + 1`
+done
+
