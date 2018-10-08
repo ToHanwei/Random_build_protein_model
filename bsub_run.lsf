@@ -5,6 +5,8 @@
 #BSUB -n 1
 #BSUB -J "Randmodel"
 
+#Master run script, run in linux
+
 #Some variables
 script1="random_seq_pir.py"
 script2="mymodeing.py"
