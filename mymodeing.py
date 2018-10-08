@@ -1,5 +1,9 @@
 #coding:utf-8
 
+__author__ = "Wei"
+__maill__ = "hanwei@shanghaitech.edu.cn"
+__time__ = "2018-10-8"
+
 from temp import SCORE_VAR
 from os import rename
 from os import system
