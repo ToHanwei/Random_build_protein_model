@@ -1,1 +1,2 @@
+#This is DOPE score
 SCORE_VAR=-41842.8125
