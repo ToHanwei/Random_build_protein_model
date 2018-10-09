@@ -1,0 +1,241 @@
+PDB,UniProt,Receptor,Rec. Family,Class,Species,Method,Mutations,Deletions,Modifications,Insertions,PDB,Resolution,Reference,Date
+5V54,5HT1B,5-HT1B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,5V54 ,3.9,  ,2018-02-07
+4IAR,5HT1B,5-HT1B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,4IAR ,2.7,10.1126/SCIENCE.1232807  ,2013-03-13
+4IAQ,5HT1B,5-HT1B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,4IAQ ,2.8,10.1126/SCIENCE.1232807  ,2013-03-13
+6G79,5HT1B,5-HT1B,5-Hydroxytryptamine,A (Rhodopsin),Human,Cryo-EM,1,1,0,2,6G79 ,3.8,10.1038/S41586-018-0241-9  ,2018-06-20
+5TVN,5HT2B,5-HT2B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,5TVN ,2.9,10.1016/J.CELL.2016.12.033  ,2017-02-01
+4IB4,5HT2B,5-HT2B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,4IB4 ,2.7,10.1126/SCIENCE.1232808  ,2013-03-13
+5TUD,5HT2B,5-HT2B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,5TUD ,3,10.1073/PNAS.1700891114  ,2017-07-26
+4NC3,5HT2B,5-HT2B,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,4NC3 ,2.8,10.1126/SCIENCE.1244142  ,2013-12-18
+6BQG,5HT2C,5-HT2C,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,6BQG ,3,10.1016/J.CELL.2018.01.001  ,2018-02-14
+6BQH,5HT2C,5-HT2C,5-Hydroxytryptamine,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,6BQH ,2.7,10.1016/J.CELL.2018.01.001  ,2018-02-14
+5UEN,AA1R,A1,Adenosine,A (Rhodopsin),Human,in meso/LCP,1,3,0,8,5UEN ,3.2,10.1016/J.CELL.2017.01.042  ,2017-03-01
+6D9H,AA1R,A1,Adenosine,A (Rhodopsin),Human,Cryo-EM,0,1,0,6,6D9H ,3.6,10.1038/S41586-018-0236-6  ,2018-06-20
+5N2S,AA1R,A1,Adenosine,A (Rhodopsin),Human,in meso/LCP,8,2,0,3,5N2S ,3.3,10.1016/J.STR.2017.06.012  ,2017-07-26
+2YDV,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,5,1,0,2,2YDV ,2.6,10.1038/NATURE10136  ,2011-05-18
+3EML,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,5,3EML ,2.6,10.1126/SCIENCE.1164772  ,2008-10-14
+5K2D,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5K2D ,1.9,10.1126/SCIADV.1600292  ,2016-09-21
+5K2C,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5K2C ,1.9,10.1126/SCIADV.1600292  ,2016-09-21
+5NM2,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5NM2 ,2,10.1038/S41467-017-00630-4  ,2017-09-27
+5OLZ,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,3,5OLZ ,1.9,10.1038/S41598-017-18570-W  ,2018-01-17
+5IU7,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5IU7 ,1.9,10.1021/ACS.JMEDCHEM.6B00653  ,2016-06-29
+3REY,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,8,1,0,1,3REY ,3.3,10.1016/J.STR.2011.06.014  ,2011-09-07
+4UG2,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,5,1,0,3,4UG2 ,2.6,10.1124/MOL.114.097360  ,2015-04-08
+4UHR,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,5,1,0,2,4UHR ,2.6,10.1124/MOL.114.097360  ,2015-04-08
+3VG9,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,1,1,0,3,3VG9 ,2.7,10.1038/NATURE10750  ,2012-02-01
+5OLH,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,3,5OLH ,2.6,10.1038/S41598-017-18570-W  ,2018-01-17
+5MZP,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5MZP ,2.1,10.1016/J.STR.2017.06.012  ,2017-07-26
+5JTB,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5JTB ,2.8,10.1126/SCIADV.1602952  ,2017-05-31
+5N2R,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5N2R ,2.8,10.1016/J.STR.2017.06.012  ,2017-07-26
+5G53,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,1,1,0,2,5G53 ,3.4,10.1038/NATURE18966  ,2016-08-03
+5MZJ,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5MZJ ,2,10.1016/J.STR.2017.06.012  ,2017-07-26
+6AQF,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,3,6AQF ,2.5,10.1016/J.CELL.2017.12.004  ,2018-01-10
+3VGA,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,1,1,0,3,3VGA ,3.1,10.1038/NATURE10750  ,2012-02-01
+5VRA,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5VRA ,2.4,10.1038/NPROT.2017.135  ,2017-12-13
+5NM4,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5NM4 ,1.7,10.1038/S41467-017-00630-4  ,2017-09-27
+5WF6,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,1,3,0,4,5WF6 ,2.9,10.1016/J.STR.2017.12.013  ,2018-02-21
+5OLG,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5OLG ,1.9,10.1038/S41598-017-18570-W  ,2018-01-17
+5NLX,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5NLX ,2.1,10.1038/S41467-017-00630-4  ,2017-09-27
+5K2B,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5K2B ,2.5,10.1126/SCIADV.1600292  ,2016-09-21
+5UVI,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5UVI ,3.2,10.1107/S205225251700570X  ,2017-05-24
+5IUB,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5IUB ,2.1,10.1021/ACS.JMEDCHEM.6B00653  ,2016-06-29
+5OM1,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,3,5OM1 ,2.1,10.1038/S41598-017-18570-W  ,2018-01-17
+5OLO,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5OLO ,3.1,10.1038/S41598-017-18570-W  ,2018-01-17
+3PWH,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,8,1,0,2,3PWH ,3.3,10.1016/J.STR.2011.06.014  ,2011-09-07
+5IU8,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5IU8 ,2,  ,2016-06-29
+3QAK,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,5,3QAK ,2.7,10.1126/SCIENCE.1202793  ,2011-03-09
+5IUA,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5IUA ,2.2,10.1021/ACS.JMEDCHEM.6B00653  ,2016-06-29
+5IU4,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,4,5IU4 ,1.7,10.1021/ACS.JMEDCHEM.6B00653  ,2016-06-29
+5K2A,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,5K2A ,2.5,10.1126/SCIADV.1600292  ,2016-09-21
+3UZA,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,8,1,0,2,3UZA ,3.3,10.1021/JM201376W  ,2012-03-21
+6GDG,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,Cryo-EM,0,2,0,5,6GDG ,4.1,10.7554/ELIFE.35946  ,2018-05-16
+3UZC,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,8,1,0,2,3UZC ,3.3,10.1021/JM201376W  ,2012-03-21
+2YDO,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,5,1,0,2,2YDO ,3,10.1038/NATURE10136  ,2011-05-18
+5UIG,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,0,2,0,5,5UIG ,3.5,10.1073/PNAS.1621423114  ,2017-02-08
+4EIY,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,0,3,0,4,4EIY ,1.8,10.1126/SCIENCE.1219218  ,2012-07-25
+5OLV,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,3,5OLV ,2,10.1038/S41598-017-18570-W  ,2018-01-17
+5OM4,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,9,3,0,3,5OM4 ,2,10.1038/S41598-017-18570-W  ,2018-01-17
+5WF5,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,in meso/LCP,1,3,0,4,5WF5 ,2.6,10.1016/J.STR.2017.12.013  ,2018-02-21
+3RFM,AA2AR,A2A,Adenosine,A (Rhodopsin),Human,vapour diffusion,8,1,0,2,3RFM ,3.6,10.1016/J.STR.2011.06.014  ,2011-09-07
+5CXV,ACM1,M1,Acetylcholine (muscarinic),A (Rhodopsin),Human,in meso/LCP,3,2,0,4,5CXV ,2.7,10.1038/NATURE17188  ,2016-03-09
+4MQT,ACM2,M2,Acetylcholine (muscarinic),A (Rhodopsin),Human,in meso/LCP,6,1,0,3,4MQT ,3.7,10.1038/NATURE12735  ,2013-11-27
+4MQS,ACM2,M2,Acetylcholine (muscarinic),A (Rhodopsin),Human,in meso/LCP,6,1,0,3,4MQS ,3.5,10.1038/NATURE12735  ,2013-11-27
+3UON,ACM2,M2,Acetylcholine (muscarinic),A (Rhodopsin),Human,in meso/LCP,4,1,0,1,3UON ,3,10.1038/NATURE10753  ,2012-02-01
+4U14,ACM3,M3,Acetylcholine (muscarinic),A (Rhodopsin),Rat,sponge mesophase,0,3,0,4,4U14 ,3.6,10.1016/J.STR.2014.08.022  ,2014-11-26
+4DAJ,ACM3,M3,Acetylcholine (muscarinic),A (Rhodopsin),Rat,in meso/LCP,0,2,0,4,4DAJ ,3.4,10.1038/NATURE10867  ,2012-02-22
+4U16,ACM3,M3,Acetylcholine (muscarinic),A (Rhodopsin),Rat,sponge mesophase,0,3,0,4,4U16 ,3.7,10.1016/J.STR.2014.08.022  ,2014-11-26
+4U15,ACM3,M3,Acetylcholine (muscarinic),A (Rhodopsin),Rat,in meso/LCP,0,3,0,4,4U15 ,2.8,10.1016/J.STR.2014.08.022  ,2014-11-26
+5DSG,ACM4,M4,Acetylcholine (muscarinic),A (Rhodopsin),Human,in meso/LCP,0,3,0,3,5DSG ,2.6,10.1038/NATURE17188  ,2016-03-16
+4AMJ,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,4AMJ ,2.3,10.1016/J.STR.2012.03.014  ,2012-05-23
+3ZPQ,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,3ZPQ ,2.8,10.1021/JM400140Q  ,2013-04-03
+2Y01,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,2Y01 ,2.6,10.1038/NATURE09746  ,2011-03-30
+4AMI,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,4AMI ,3.2,10.1016/J.STR.2012.03.014  ,2012-05-23
+2YCX,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,1,2YCX ,3.3,10.1073/PNAS.1100185108  ,2011-06-01
+2Y00,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,2Y00 ,2.5,  ,2011-01-12
+2YCZ,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,1,2YCZ ,3.7,10.1073/PNAS.1100185108  ,2011-06-01
+2VT4,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,1,2VT4 ,2.7,10.1038/NATURE07101  ,2008-06-24
+2Y04,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,2Y04 ,3.1,10.1038/NATURE09746  ,2011-01-12
+5F8U,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,2,5F8U ,3.4,10.1038/NSMB.3130  ,2015-12-23
+4GPO,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,2,4GPO ,3.5,10.1038/NSMB.2504  ,2013-02-27
+2YCY,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,1,2YCY ,3.2,10.1073/PNAS.1100185108  ,2011-06-08
+3ZPR,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,3ZPR ,2.7,10.1021/JM400140Q  ,2013-04-03
+2Y02,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,2Y02 ,2.6,10.1038/NATURE09746  ,2011-01-12
+4BVN,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,in meso/LCP,11,3,0,1,4BVN ,2.1,10.1371/JOURNAL.PONE.0092727  ,2014-04-02
+5A8E,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,in meso/LCP,11,3,0,1,5A8E ,2.4,10.1124/MOL.115.101030  ,2015-09-30
+2Y03,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,3,0,1,2Y03 ,2.9,10.1038/NATURE09746  ,2011-01-12
+2YCW,ADRB1,β1,Adrenoceptors,A (Rhodopsin),Common turkey,vapour diffusion,8,4,0,1,2YCW ,3,10.1073/PNAS.1100185108  ,2011-06-01
+4GBR,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,3,0,5,4GBR ,4,10.1371/JOURNAL.PONE.0046039  ,2012-10-24
+4LDO,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,3,0,3,4LDO ,3.2,10.1038/NATURE12572  ,2013-09-25
+3NY9,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,2,0,3,3NY9 ,2.8,10.1021/JA105108Q  ,2010-08-11
+2R4S,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,vapour diffusion,1,2,0,3,2R4S ,3.4,10.1038/NATURE06325  ,2007-11-06
+2R4R,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,vapour diffusion,2,1,0,4,2R4R ,3.4,10.1038/NATURE06325  ,2007-11-06
+4LDE,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,3,0,3,4LDE ,2.8,10.1038/NATURE12572  ,2013-09-25
+3KJ6,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,vapour diffusion,3,2,0,3,3KJ6 ,3.4,10.1038/NATURE08650  ,2010-02-16
+5D5A,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,2,0,2,5D5A ,2.5,10.1107/S2059798315021683  ,2016-01-13
+3NY8,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,2,0,3,3NY8 ,2.8,10.1021/JA105108Q  ,2010-08-11
+5JQH,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,3,0,4,5JQH ,3.2,10.1038/NATURE18636  ,2016-07-13
+3PDS,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,3,0,3,3PDS ,3.5,10.1038/NATURE09665  ,2011-01-12
+3SN6,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,sponge mesophase,3,2,0,4,3SN6 ,3.2,10.1038/NATURE10361  ,2011-07-20
+3D4S,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,2,0,3,3D4S ,2.8,10.1016/J.STR.2008.05.001  ,2008-06-17
+3NYA,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,2,0,3,3NYA ,3.2,10.1021/JA105108Q  ,2010-08-11
+3P0G,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,2,0,3,3P0G ,3.5,10.1038/NATURE09648  ,2011-01-19
+5X7D,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,2,0,2,5X7D ,2.7,10.1038/NATURE23652  ,2017-08-16
+5D6L,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,2,0,2,5D6L ,3.2,10.1038/NPROT.2017.057  ,2016-08-17
+2RH1,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,2,0,2,2RH1 ,2.4,10.1126/SCIENCE.1150577  ,2007-10-30
+4QKX,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,5,3,0,5,4QKX ,3.3,10.1073/PNAS.1410415111  ,2014-07-23
+5D5B,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,3,2,0,2,5D5B ,3.8,10.1107/S2059798315021683  ,2016-01-13
+4LDL,ADRB2,β2,Adrenoceptors,A (Rhodopsin),Human,in meso/LCP,4,3,0,3,4LDL ,3.1,10.1038/NATURE12572  ,2013-09-25
+4ZUD,AGTR1,AT1,Angiotensin,A (Rhodopsin),Human,in meso/LCP,0,3,0,5,4ZUD ,2.8,10.1074/JBC.M115.689000  ,2015-10-07
+4YAY,AGTR1,AT1,Angiotensin,A (Rhodopsin),Human,in meso/LCP,0,3,0,5,4YAY ,2.9,10.1016/J.CELL.2015.04.011  ,2015-04-22
+5UNH,AGTR2,AT2,Angiotensin,A (Rhodopsin),Human,in meso/LCP,0,2,0,6,5UNH ,2.9,10.1038/NATURE22035  ,2017-04-05
+5UNF,AGTR2,AT2,Angiotensin,A (Rhodopsin),Human,in meso/LCP,0,2,0,6,5UNF ,2.8,10.1038/NATURE22035  ,2017-04-05
+5UNG,AGTR2,AT2,Angiotensin,A (Rhodopsin),Human,in meso/LCP,0,2,0,6,5UNG ,2.8,10.1038/NATURE22035  ,2017-04-05
+5VBL,APJ,apelin,Apelin,A (Rhodopsin),Human,in meso/LCP,5,3,0,5,5VBL ,2.6,10.1016/J.STR.2017.04.008  ,2017-05-31
+5O9H,C5AR1,C5a1,Complement peptide,A (Rhodopsin),Human,in meso/LCP,11,2,0,1,5O9H ,2.7,10.1038/NATURE25025  ,2018-01-10
+6C1Q,C5AR1,C5a1,Complement peptide,A (Rhodopsin),Human,N/A,0,2,0,0,6C1Q ,2.9,10.1038/S41594-018-0067-Z  ,2018-05-30
+6C1R,C5AR1,C5a1,Complement peptide,A (Rhodopsin),Human,N/A,0,2,0,0,6C1R ,2.2,10.1038/S41594-018-0067-Z  ,2018-05-30
+5T1A,CCR2,CCR2,Chemokine,A (Rhodopsin),Human,in meso/LCP,0,3,0,6,5T1A ,2.8,10.1038/NATURE20605  ,2016-12-14
+5UIW,CCR5,CCR5,Chemokine,A (Rhodopsin),Human,in meso/LCP,4,3,0,5,5UIW ,2.2,10.1016/J.IMMUNI.2017.05.002  ,2017-06-28
+4MBS,CCR5,CCR5,Chemokine,A (Rhodopsin),Human,in meso/LCP,4,2,0,5,4MBS ,2.7,10.1126/SCIENCE.1241475  ,2013-09-11
+5LWE,CCR9,CCR9,Chemokine,A (Rhodopsin),Human,in meso/LCP,10,2,0,2,5LWE ,2.8,10.1038/NATURE20606  ,2016-12-07
+5XR8,CNR1,CB1,Cannabinoid,A (Rhodopsin),Human,in meso/LCP,4,3,0,5,5XR8 ,3,10.1038/NATURE23272  ,2017-07-12
+5U09,CNR1,CB1,Cannabinoid,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,5U09 ,2.6,10.1038/NATURE20613  ,2016-12-07
+5TGZ,CNR1,CB1,Cannabinoid,A (Rhodopsin),Human,in meso/LCP,4,3,0,5,5TGZ ,2.8,10.1016/J.CELL.2016.10.004  ,2016-11-02
+5XRA,CNR1,CB1,Cannabinoid,A (Rhodopsin),Human,in meso/LCP,4,3,0,5,5XRA ,2.8,10.1038/NATURE23272  ,2017-07-12
+3OE6,CXCR4,CXCR4,Chemokine,A (Rhodopsin),Human,in meso/LCP,1,2,0,7,3OE6 ,3.2,10.1126/SCIENCE.1194396  ,2010-10-27
+4RWS,CXCR4,CXCR4,Chemokine,A (Rhodopsin),Human,in meso/LCP,3,3,0,5,4RWS ,3.1,10.1126/SCIENCE.1261064  ,2015-02-11
+3ODU,CXCR4,CXCR4,Chemokine,A (Rhodopsin),Human,in meso/LCP,1,2,0,7,3ODU ,2.5,10.1126/SCIENCE.1194396  ,2010-10-27
+3OE9,CXCR4,CXCR4,Chemokine,A (Rhodopsin),Human,in meso/LCP,2,3,0,6,3OE9 ,3.1,10.1126/SCIENCE.1194396  ,2010-10-27
+3OE0,CXCR4,CXCR4,Chemokine,A (Rhodopsin),Human,in meso/LCP,2,3,0,6,3OE0 ,2.9,10.1126/SCIENCE.1194396  ,2010-10-27
+3OE8,CXCR4,CXCR4,Chemokine,A (Rhodopsin),Human,in meso/LCP,1,2,0,7,3OE8 ,3.1,10.1126/SCIENCE.1194396  ,2010-10-27
+6CM4,DRD2,D2,Dopamine,A (Rhodopsin),Human,in meso/LCP,3,2,0,5,6CM4 ,2.9,10.1038/NATURE25758  ,2018-03-14
+3PBL,DRD3,D3,Dopamine,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,3PBL ,2.9,10.1126/SCIENCE.1197410  ,2010-11-03
+5WIV,DRD4,D4,Dopamine,A (Rhodopsin),Human,in meso/LCP,0,1,0,5,5WIV ,2.1,10.1126/SCIENCE.AAN5468  ,2017-10-18
+5WIU,DRD4,D4,Dopamine,A (Rhodopsin),Human,in meso/LCP,0,1,0,5,5WIU ,2,10.1126/SCIENCE.AAN5468  ,2017-10-18
+5GLI,EDNRB,ETB,Endothelin,A (Rhodopsin),Human,in meso/LCP,0,3,0,7,5GLI ,2.5,10.1038/NATURE19319  ,2016-09-07
+5X93,EDNRB,ETB,Endothelin,A (Rhodopsin),Human,in meso/LCP,8,3,0,7,5X93 ,2.2,10.1038/NSMB.3450  ,2017-08-16
+5GLH,EDNRB,ETB,Endothelin,A (Rhodopsin),Human,in meso/LCP,0,3,0,7,5GLH ,2.8,10.1038/NATURE19319  ,2016-09-07
+5XPR,EDNRB,ETB,Endothelin,A (Rhodopsin),Human,in meso/LCP,7,3,0,7,5XPR ,3.6,10.1038/NSMB.3450  ,2017-08-16
+5KW2,FFAR1,FFA1,Free fatty acid,A (Rhodopsin),Human,N/A,3,1,0,0,5KW2 ,2.8,10.1038/S41467-017-01240-W  ,2018-05-02
+4PHU,FFAR1,FFA1,Free fatty acid,A (Rhodopsin),Human,in meso/LCP,4,1,0,6,4PHU ,2.3,10.1038/NATURE13494  ,2014-07-16
+5TZR,FFAR1,FFA1,Free fatty acid,A (Rhodopsin),Human,in meso/LCP,4,1,0,6,5TZR ,2.2,10.1038/NSMB.3417  ,2017-06-07
+5TZY,FFAR1,FFA1,Free fatty acid,A (Rhodopsin),Human,in meso/LCP,3,1,0,6,5TZY ,3.2,10.1038/NSMB.3417  ,2017-06-07
+3RZE,HRH1,H1,Histamine,A (Rhodopsin),Human,in meso/LCP,0,2,0,4,3RZE ,3.1,10.1038/NATURE10236  ,2011-06-15
+4Z35,LPAR1,LPA1,Lysophospholipid (LPA),A (Rhodopsin),Human,in meso/LCP,0,3,0,5,4Z35 ,2.9,10.1016/J.CELL.2015.06.002  ,2015-06-03
+4Z36,LPAR1,LPA1,Lysophospholipid (LPA),A (Rhodopsin),Human,in meso/LCP,2,3,0,5,4Z36 ,2.9,10.1016/J.CELL.2015.06.002  ,2015-06-03
+4Z34,LPAR1,LPA1,Lysophospholipid (LPA),A (Rhodopsin),Human,in meso/LCP,0,3,0,5,4Z34 ,3,10.1016/J.CELL.2015.06.002  ,2015-06-03
+5ZBQ,NPY1R,Y1,Neuropeptide Y,A (Rhodopsin),Human,N/A,0,2,0,0,5ZBQ ,2.7,10.1038/S41586-018-0046-X  ,2018-04-25
+5ZBH,NPY1R,Y1,Neuropeptide Y,A (Rhodopsin),Human,N/A,0,3,0,0,5ZBH ,3,10.1038/S41586-018-0046-X  ,2018-04-25
+5T04,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,in meso/LCP,4,3,0,5,5T04 ,3.3,10.1038/SREP38564  ,2016-12-21
+4XEE,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,in meso/LCP,3,3,0,5,4XEE ,2.9,10.1038/NCOMMS8895  ,2015-07-29
+4GRV,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,in meso/LCP,6,3,0,5,4GRV ,2.8,10.1038/NATURE11558  ,2012-10-17
+4BUO,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,vapour diffusion,11,3,0,8,4BUO ,2.8,10.1073/PNAS.1317903111  ,2014-01-29
+4XES,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,in meso/LCP,4,3,0,5,4XES ,2.6,10.1038/NCOMMS8895  ,2015-07-29
+4BWB,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,vapour diffusion,26,3,0,8,4BWB ,3.6,10.1073/PNAS.1317903111  ,2014-01-29
+3ZEV,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,vapour diffusion,11,3,0,8,3ZEV ,3,10.1073/PNAS.1317903111  ,2014-01-29
+4BV0,NTR1,NTS1,Neurotensin,A (Rhodopsin),Rat,vapour diffusion,29,3,0,8,4BV0 ,3.1,10.1073/PNAS.1317903111  ,2014-01-29
+4N6H,OPRD,δ,Opioid,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,4N6H ,1.8,10.1038/NATURE12944  ,2013-12-25
+4EJ4,OPRD,δ,Opioid,A (Rhodopsin),Mouse,in meso/LCP,0,3,0,4,4EJ4 ,3.4,10.1038/NATURE11111  ,2012-05-16
+4RWA,OPRD,δ,Opioid,A (Rhodopsin),Human,in meso/LCP,0,2,0,5,4RWA ,3.3,10.1038/NSMB.2965  ,2015-01-14
+4RWD,OPRD,δ,Opioid,A (Rhodopsin),Human,in meso/LCP,0,2,0,5,4RWD ,2.7,10.1038/NSMB.2965  ,2015-01-14
+6B73,OPRK,κ,Opioid,A (Rhodopsin),Human,in meso/LCP,1,2,0,6,6B73 ,3.1,10.1016/J.CELL.2017.12.011  ,2018-01-17
+4DJH,OPRK,κ,Opioid,A (Rhodopsin),Human,in meso/LCP,1,3,0,5,4DJH ,2.9,10.1038/NATURE10939  ,2012-03-21
+6DDF,OPRM,μ,Opioid,A (Rhodopsin),Mouse,Cryo-EM,0,2,0,4,6DDF ,3.5,10.1038/S41586-018-0219-7  ,2018-06-13
+5C1M,OPRM,μ,Opioid,A (Rhodopsin),Mouse,in meso/LCP,0,2,0,4,5C1M ,2.1,10.1038/NATURE14886  ,2015-08-05
+6DDE,OPRM,μ,Opioid,A (Rhodopsin),Mouse,Cryo-EM,0,2,0,4,6DDE ,3.5,10.1038/S41586-018-0219-7  ,2018-06-13
+4DKL,OPRM,μ,Opioid,A (Rhodopsin),Mouse,in meso/LCP,0,3,0,5,4DKL ,2.8,10.1038/NATURE10954  ,2012-03-21
+5DHG,OPRX,NOP,Opioid,A (Rhodopsin),Human,in meso/LCP,0,2,0,5,5DHG ,3,10.1016/J.STR.2015.07.024  ,2015-10-21
+5DHH,OPRX,NOP,Opioid,A (Rhodopsin),Human,in meso/LCP,0,2,0,5,5DHH ,3,10.1016/J.STR.2015.07.024  ,2015-10-21
+4EA3,OPRX,NOP,Opioid,A (Rhodopsin),Human,in meso/LCP,0,2,0,5,4EA3 ,3,10.1038/NATURE11085  ,2012-04-25
+3PXO,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,3PXO ,3,10.1038/NATURE09789  ,2011-03-09
+3AYN,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Japanese flying squid,vapour diffusion,0,0,0,0,3AYN ,2.7,10.1016/J.JMB.2011.08.044  ,2011-08-17
+5EN0,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,3,0,0,0,5EN0 ,2.8,10.15252/EMBR.201642671  ,2016-08-10
+2I36,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,2I36 ,4.1,10.1073/PNAS.0608022103  ,2006-10-17
+4WW3,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Japanese flying squid,vapour diffusion,0,2,0,1,4WW3 ,2.8,10.1371/JOURNAL.PONE.0126970  ,2015-06-17
+3DQB,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,3DQB ,3.2,10.1038/NATURE07330  ,2008-09-23
+6FK9,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,0,0,0,6FK9 ,2.6,10.1073/PNAS.1718084115  ,2018-04-04
+1L9H,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,1L9H ,2.6,10.1073/PNAS.082666399  ,2002-05-15
+3C9L,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,NA,0,0,0,0,3C9L ,2.7,10.1107/S0907444908017162  ,2008-08-05
+3C9M,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,NA,2,0,0,0,3C9M ,3.4,10.1107/S0907444908017162  ,2008-08-05
+6FKC,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,0,0,0,6FKC ,2.5,10.1073/PNAS.1718084115  ,2018-04-04
+5TE3,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,5TE3 ,2.7,10.1073/PNAS.1617446114  ,2017-03-15
+2PED,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,2PED ,3,10.1529/BIOPHYSJ.107.108225  ,2007-10-30
+2Z73,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Japanese flying squid,vapour diffusion,0,0,0,0,2Z73 ,2.5,10.1038/NATURE06925  ,2008-05-13
+5W0P,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Human,in meso/LCP,6,0,0,7,5W0P ,3,10.1016/J.CELL.2017.07.002  ,2017-08-09
+3OAX,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,3OAX ,2.6,10.1016/J.BPJ.2010.08.003  ,2011-01-19
+6FK7,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,0,0,0,6FK7 ,2.6,10.1073/PNAS.1718084115  ,2018-04-04
+4PXF,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,4PXF ,2.8,10.1038/NCOMMS5801  ,2014-09-17
+6FK6,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,1,0,0,6FK6 ,2.4,10.1073/PNAS.1718084115  ,2018-04-04
+3PQR,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,3PQR ,2.9,10.1038/NATURE09789  ,2011-03-09
+2G87,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,2G87 ,2.6,10.1002/ANIE.200600595  ,2006-09-02
+1GZM,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,1GZM ,2.7,10.1016/J.JMB.2004.08.090  ,2003-11-20
+3AYM,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Japanese flying squid,vapour diffusion,0,0,0,0,3AYM ,2.8,10.1016/J.JMB.2011.08.044  ,2011-08-17
+1F88,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,1F88 ,2.8,10.1126/SCIENCE.289.5480.739  ,2000-08-04
+5WKT,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,5WKT ,3.2,10.1038/NPROT.2017.135  ,2017-12-13
+3CAP,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,3CAP ,2.9,10.1038/NATURE07063  ,2008-06-24
+5DYS,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,3,0,0,0,5DYS ,2.3,10.15252/EMBR.201642671  ,2016-08-10
+5TE5,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,5TE5 ,4,10.1073/PNAS.1617446114  ,2017-03-15
+4BEY,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,3,0,0,0,4BEY ,2.9,10.1038/EMBOR.2013.44  ,2013-05-08
+6FKD,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,0,0,0,6FKD ,2.5,10.1073/PNAS.1718084115  ,2018-04-04
+1U19,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,1U19 ,2.2,10.1016/J.JMB.2004.07.044  ,2004-10-12
+6CMO,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Human,Cryo-EM,3,2,0,5,6CMO ,4.5,  ,2018-06-20
+2J4Y,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,2,0,0,0,2J4Y ,3.4,10.1016/J.JMB.2007.03.007  ,2007-09-25
+5DGY,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Human,in meso/LCP,4,0,0,7,5DGY ,7.7,10.1038/SDATA.2016.21  ,2016-03-23
+4BEZ,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,3,0,0,0,4BEZ ,3.3,10.1038/EMBOR.2013.44  ,2013-04-24
+2X72,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,3,0,0,0,2X72 ,3,10.1038/NATURE09795  ,2011-03-16
+6FKB,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,1,0,0,6FKB ,3,10.1073/PNAS.1718084115  ,2018-04-04
+2I37,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,2I37 ,4.2,10.1073/PNAS.0608022103  ,2006-10-17
+4X1H,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,4X1H ,2.3,10.1016/J.STR.2015.09.015  ,2015-11-04
+6FK8,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,0,0,0,6FK8 ,2.9,10.1073/PNAS.1718084115  ,2018-04-04
+2HPY,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,2HPY ,2.8,10.1073/PNAS.0601765103  ,2006-08-22
+4ZWJ,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Human,in meso/LCP,4,0,0,7,4ZWJ ,3.3,10.1038/NATURE14656  ,2015-07-29
+2I35,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,2I35 ,3.8,10.1073/PNAS.0608022103  ,2006-10-17
+2ZIY,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Japanese flying squid,vapour diffusion,1,2,0,0,2ZIY ,3.7,10.1074/JBC.C800040200  ,2008-05-06
+1HZX,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,1HZX ,2.8,10.1021/BI0155091  ,2001-07-04
+4A4M,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,3,0,0,0,4A4M ,3.3,10.1073/PNAS.1114089108  ,2012-01-25
+4J4Q,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,vapour diffusion,0,0,0,0,4J4Q ,2.7,10.1002/ANIE.201302374  ,2013-10-30
+6FKA,OPSD,Rhodopsin,Opsins,A (Rhodopsin),Bovine,N/A,0,0,0,0,6FKA ,2.7,10.1073/PNAS.1718084115  ,2018-04-04
+4ZJC,OX1R,OX1,Orexin,A (Rhodopsin),Human,in meso/LCP,1,2,0,4,4ZJC ,2.8,10.1038/NSMB.3183  ,2016-03-09
+4ZJ8,OX1R,OX1,Orexin,A (Rhodopsin),Human,in meso/LCP,1,2,0,4,4ZJ8 ,2.8,10.1038/NSMB.3183  ,2016-03-09
+5WS3,OX2R,OX2,Orexin,A (Rhodopsin),Human,in meso/LCP,1,3,0,4,5WS3 ,2.3,  ,2017-12-13
+5WQC,OX2R,OX2,Orexin,A (Rhodopsin),Human,in meso/LCP,1,3,0,4,5WQC ,2,10.1016/J.STR.2017.11.005  ,2017-11-29
+4S0V,OX2R,OX2,Orexin,A (Rhodopsin),Human,in meso/LCP,1,3,0,4,4S0V ,2.5,10.1038/NATURE14035  ,2015-01-14
+4XNW,P2RY1,P2Y1,P2Y,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,4XNW ,2.7,10.1038/NATURE14287  ,2015-04-01
+4XNV,P2RY1,P2Y1,P2Y,A (Rhodopsin),Human,in meso/LCP,1,2,0,5,4XNV ,2.2,10.1038/NATURE14287  ,2015-04-01
+4PXZ,P2Y12,P2Y12,P2Y,A (Rhodopsin),Human,in meso/LCP,1,1,0,5,4PXZ ,2.5,10.1038/NATURE13288  ,2014-04-30
+4NTJ,P2Y12,P2Y12,P2Y,A (Rhodopsin),Human,in meso/LCP,1,1,0,5,4NTJ ,2.6,10.1038/NATURE13083  ,2014-03-26
+4PY0,P2Y12,P2Y12,P2Y,A (Rhodopsin),Human,in meso/LCP,1,1,0,5,4PY0 ,3.1,10.1038/NATURE13288  ,2014-04-30
+3VW7,PAR1,PAR1,Proteinase-activated,A (Rhodopsin),Human,in meso/LCP,2,3,0,5,3VW7 ,2.2,10.1038/NATURE11701  ,2012-12-12
+5NDD,PAR2,PAR2,Proteinase-activated,A (Rhodopsin),Human,in meso/LCP,10,3,0,4,5NDD ,2.8,10.1038/NATURE22309  ,2017-05-03
+5NDZ,PAR2,PAR2,Proteinase-activated,A (Rhodopsin),Human,in meso/LCP,10,3,0,4,5NDZ ,3.6,10.1038/NATURE22309  ,2017-05-03
+5NJ6,PAR2,PAR2,Proteinase-activated,A (Rhodopsin),Human,in meso/LCP,10,3,0,2,5NJ6 ,4,10.1038/NATURE22309  ,2017-05-03
+5ZKP,PTAFR,PAF,Platelet-activating factor,A (Rhodopsin),Human,N/A,0,3,0,0,5ZKP ,2.8,10.1038/S41594-018-0068-Y  ,2018-06-20
+5ZKQ,PTAFR,PAF,Platelet-activating factor,A (Rhodopsin),Human,N/A,0,3,0,0,5ZKQ ,2.9,10.1038/S41594-018-0068-Y  ,2018-06-20
+5XSZ,Q08BG4,LPA6,Lysophospholipid (LPA),A (Rhodopsin),Zebrafish,in meso/LCP,0,2,0,6,5XSZ ,3.2,10.1038/NATURE23448  ,2017-08-16
+5WB1,Q80KM9,US28,Unclassified,A (Rhodopsin),strain AD169,in meso/LCP,0,1,0,9,5WB1 ,3.5,  ,2018-06-13
+5WB2,Q80KM9,US28,Unclassified,A (Rhodopsin),strain AD169,in meso/LCP,0,1,0,9,5WB2 ,3.5,  ,2018-06-13
+5X33,Q9WTK1,BLT1,Leukotriene,A (Rhodopsin),Guinea pig,in meso/LCP,4,1,0,5,5X33 ,3.7,10.1038/NCHEMBIO.2547  ,2018-01-03
+3V2W,S1PR1,S1P1,Lysophospholipid (S1P),A (Rhodopsin),Human,in meso/LCP,2,4,0,5,3V2W ,3.4,10.1126/SCIENCE.1215904  ,2012-02-15
+3V2Y,S1PR1,S1P1,Lysophospholipid (S1P),A (Rhodopsin),Human,in meso/LCP,2,4,0,5,3V2Y ,2.8,10.1126/SCIENCE.1215904  ,2012-02-15
+4XT3,US28,US28,Unclassified,A (Rhodopsin),strain AD169,in meso/LCP,0,2,0,1,4XT3 ,3.8,10.1126/SCIENCE.AAA5026  ,2015-03-04
+4XT1,US28,US28,Unclassified,A (Rhodopsin),strain AD169,in meso/LCP,0,2,0,1,4XT1 ,2.9,10.1126/SCIENCE.AAA5026  ,2015-03-04

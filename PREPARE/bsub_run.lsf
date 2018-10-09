@@ -1,0 +1,10 @@
+#!/bin/bash
+#BSUB -q q2697v4cpu
+#BSUB -o ./outfile.txt
+#BSUB -e ./err.txt
+#BSUB -n 2
+#BSUB -J "PDB"
+
+source /share/intel/impi/5.1.3.210/bin64/mpivars.sh
+
+python retain_pdb.py --pdb Download_PDB
