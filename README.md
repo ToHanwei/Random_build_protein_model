@@ -1,2 +1,5 @@
 # Random_build_protein_model
 Use modeller programmer to build protein model
+主要调用的是Modeller同源建模程序，所以在使用之前需要在Python中安装modeller模块。
+用的的环境是Python3.6,如果你安装了Anaconda的话将会为你省下很多不必要的麻烦。
+PREPSRE主要是在正式建模之前所需要的输入文件的整理及处理。
